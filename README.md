@@ -1,0 +1,4 @@
+LIC
+===
+
+Line Integral Convolution
